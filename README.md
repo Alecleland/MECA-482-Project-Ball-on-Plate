@@ -27,7 +27,7 @@ Simulink,
 
 2. Modeling
 
-![alt text](http://url/to/img.png)
+![](Ball on Plate FBD.PNG)
 Figure 1: Free Body Diagram
 
 This figure shows the free body diagram of the ball on plate. This figure includes a rotary servo motor that adjusts the plate to keep the ball on top of it. 
