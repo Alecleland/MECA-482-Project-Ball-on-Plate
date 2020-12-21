@@ -7,7 +7,7 @@ README.md
 **Team #5**
 MWF 12:00-12:50 p.m. 
 
-Members:
+**Members:**
 
 AbdulAziz Alqatami
 
